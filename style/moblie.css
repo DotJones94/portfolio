@@ -1,0 +1,154 @@
+body{
+    background-color: red;
+}
+
+/* Index Page */
+#capitalK{
+    width: 40vw;
+}
+
+.nav_box{
+    box-sizing: border-box;
+    width: 600px;
+    padding: 100px 10px 100px 10px;
+    height: 10px;
+}
+
+.p_nav_side{
+    width: 100vw;
+    padding: 50px;
+    padding-top: 100px;
+    padding-bottom: 0px;
+}
+
+.p_nav_side_sm{
+    width: 90vw;
+    padding: 50px;
+    padding-top: 30px;
+    padding-bottom: 0px;
+    margin-left: 80px;
+}
+
+.ab_nav{
+    display: none;
+}
+
+.c_content_side{
+    width: 100vw;
+}
+
+.filler_header{
+    font-size: 45px;
+}
+
+.a_inner_block, .a_inner_block2, .a_inner_block3{
+    margin-right: 5px;
+    padding: 20px;
+    width: 240px;
+}
+
+.m_nav_side_menu{
+    width: 100vw; 
+    height: 100vh;
+    max-height: 100%;
+}
+
+
+.n_background{
+    padding: 80px;
+}
+
+.th_moblie{
+    margin-top: 50px;
+    margin-bottom: 0;
+}
+
+/* About */
+.a_m_block{
+    width: 100vw;
+    margin-top: 80px;
+    margin-left: 40px;
+}
+
+.ab_nav_other{
+    height: 1vh;
+    opacity: 0;
+    margin-top: 30px;
+    width: 80vw;
+}
+
+.c_content_side_m{
+    box-sizing: border-box;
+    width: 100vw;
+    overflow: auto;
+    margin-top: 0px;
+}
+
+.a_block{
+    margin-left: 0px;
+    margin-bottom: 0px;
+}
+
+.tl_block{
+    box-sizing: border-box;
+    width: 120px;
+    padding: 20px;
+}
+
+/* Experience */
+.w_e_block_m{
+    margin-top: 20px;
+    width: 220px;
+    padding-right: 40px;
+    color: gray; 
+    height: 550px;
+    
+}
+
+.time_line{
+    opacity: 0;
+}
+
+.m_we_info_block{
+    margin-left: 100px;
+    height: 80vh;
+    overflow: auto;
+}
+
+.w_images_block{
+    width: 70vw;
+}
+
+.m_we_info_block{
+    display: none;
+}
+
+.qual_block_big_m{
+    margin-left: 10px;
+    height: 70vh;
+    overflow: auto;
+}
+
+.qual_block{
+    padding-top: 70px;
+}
+
+.beanie_m{
+    width: 80vw;
+    padding-bottom: 50px;
+    margin-left: 20px;
+}
+
+.p_video_side_pm{
+    box-sizing: border-box;
+    width: 100vw;
+    height: 50vh;
+    overflow: auto;
+    padding: 30px;
+    margin-bottom: 50px;
+}
+
+.other_pm{
+    margin-left: 50px;
+}
+
